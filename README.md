@@ -1,4 +1,4 @@
-# Ris(c)y Business
+# Risc-V Business
 It's fun with RISC-V. Get it? Get it? ... Sorry...
 
 ## Links
